@@ -2,8 +2,8 @@
 
 ## Configuration with Docker
 1. initialize docker
-1. docker build -t loratrustprototypebackend .
-2. docker run -p 8000:8000 loratrustprototypebackend
+1. ```docker build -t loratrustprototypebackend .```
+2. ```docker run -p 8000:8000 loratrustprototypebackend```
 
 
 ## Configuration without Docker
